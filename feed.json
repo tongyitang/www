@@ -1,0 +1,55 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "TongYiTang",
+    "description": "",
+    "home_page_url": "https://tongyitang.github.io/www",
+    "feed_url": "https://tongyitang.github.io/www/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Marc"
+    },
+    "items": [
+        {
+            "id": "https://tongyitang.github.io/www/shang-ye-ji-hua.html",
+            "url": "https://tongyitang.github.io/www/shang-ye-ji-hua.html",
+            "title": "商业计划",
+            "summary": "Business",
+            "content_html": "Business",
+            "author": {
+                "name": "Marc"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-04-25T01:15:06+02:00",
+            "date_modified": "2020-04-25T01:15:06+02:00"
+        },
+        {
+            "id": "https://tongyitang.github.io/www/pin-pai-wen-hua.html",
+            "url": "https://tongyitang.github.io/www/pin-pai-wen-hua.html",
+            "title": "品牌 ● 文化",
+            "summary": "Brand",
+            "content_html": "Brand",
+            "author": {
+                "name": "Marc"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-04-25T01:14:40+02:00",
+            "date_modified": "2020-04-25T01:14:40+02:00"
+        },
+        {
+            "id": "https://tongyitang.github.io/www/chan-pin-fu-wu.html",
+            "url": "https://tongyitang.github.io/www/chan-pin-fu-wu.html",
+            "title": "产品 ● 服务",
+            "summary": "Product &amp; Services",
+            "content_html": "Product &amp; Services",
+            "author": {
+                "name": "Marc"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-04-25T01:14:24+02:00",
+            "date_modified": "2020-04-25T01:14:52+02:00"
+        }
+    ]
+}

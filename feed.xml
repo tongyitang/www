@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>TongYiTang</title>
+    <link href="https://tongyitang.github.io/www/feed.xml" rel="self" />
+    <link href="https://tongyitang.github.io/www" />
+    <updated>2020-04-25T03:43:15+02:00</updated>
+    <author>
+        <name>Marc</name>
+    </author>
+    <id>https://tongyitang.github.io/www</id>
+
+    <entry>
+        <title>商业计划</title>
+        <author>
+            <name>Marc</name>
+        </author>
+        <link href="https://tongyitang.github.io/www/shang-ye-ji-hua.html"/>
+        <id>https://tongyitang.github.io/www/shang-ye-ji-hua.html</id>
+
+        <updated>2020-04-25T01:15:06+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Business
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                Business
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>品牌 ● 文化</title>
+        <author>
+            <name>Marc</name>
+        </author>
+        <link href="https://tongyitang.github.io/www/pin-pai-wen-hua.html"/>
+        <id>https://tongyitang.github.io/www/pin-pai-wen-hua.html</id>
+
+        <updated>2020-04-25T01:14:40+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Brand
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                Brand
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>产品 ● 服务</title>
+        <author>
+            <name>Marc</name>
+        </author>
+        <link href="https://tongyitang.github.io/www/chan-pin-fu-wu.html"/>
+        <id>https://tongyitang.github.io/www/chan-pin-fu-wu.html</id>
+
+        <updated>2020-04-25T01:14:52+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Product &amp; Services
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                Product &amp; Services
+            ]]>
+        </content>
+    </entry>
+</feed>
